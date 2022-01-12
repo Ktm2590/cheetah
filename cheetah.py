@@ -36,7 +36,7 @@ __program__ = 'cheetah'
 __version__ = '1.0.0'
 __license__ = 'GNU GPLv3'
 __author__ = 'sunnyelf[@hackfun.org]'
-__github__ = 'https://github.com/sunnyelf/cheetah'
+__github__ = 'https://github.com/Ktm2590/cheetah'
 
 red = '\033[1;31m'
 green = '\033[1;32m'
