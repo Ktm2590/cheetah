@@ -9,13 +9,13 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sunnyelf)
 [![Twitter](https://img.shields.io/badge/follow-twitter-blue.svg)](https://twitter.com/jinglingbiaodi)
 
-# 0x00 cheetah
+# 0x00 trhacknon
 
-[Cheetah](https://github.com/sunnyelf/cheetah) is a dictionary-based brute force password webshell tool, running as fast as a cheetah hunt for prey. 
+[Cheetah](https://github.com/trhacknon/cheetah) is a dictionary-based brute force password webshell tool, running as fast as a cheetah hunt for prey. 
 
 Cheetah's working principle is that it can submit a large number of detection passwords based on different web services at once, blasting efficiency is thousands of times other common brute force password webshell tools.
 
-This version may later be infrequently updated, please use the [Cheetah GUI](https://github.com/sunnyelf/cheetah-gui) version!
+This version may later be infrequently updated, please use the [Cheetah GUI](https://github.com/trhacknon/cheetah-gui) version!
 
 # 0x01 features
 
